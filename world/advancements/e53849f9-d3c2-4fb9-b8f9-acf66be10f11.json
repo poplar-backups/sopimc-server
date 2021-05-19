@@ -1,0 +1,1889 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-05-18 22:07:44 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/si_dust_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/si_dust_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/mobshard2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/mobshard": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/xpshard": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/mushroom_tower": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/headless_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/brown_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/headless_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/headless_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/hammer": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/intern": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/oracle": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-05-18 22:07:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2021-05-18 22:05:11 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/stone_rod": {
+    "criteria": {
+      "has_item": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2021-05-18 22:07:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2021-05-18 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-05-18 22:57:15 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-05-18 22:52:04 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-05-18 22:08:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/lime_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2021-05-18 22:35:49 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/red_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2021-05-18 22:26:21 -0400",
+      "apple": "2021-05-18 23:01:08 -0400"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/mossy_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2021-05-18 22:28:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/piggy_backpack": {
+    "criteria": {
+      "has_item": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/blue_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/efficiency_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/magenta_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/pink_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/si_plate": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/efficiency_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/efficiency_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2021-05-18 22:28:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/final_castle": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/troll_lairs": {
+    "criteria": {
+      "discover": "2021-05-18 22:02:13 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-05-18 22:07:44 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/heart": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/gray_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/blood_altar": {
+    "criteria": {
+      "has_gold": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2021-05-18 22:23:56 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/layout": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/fluidconvertor": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woot/ench_squeezer_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-05-18 22:57:15 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/import": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-05-18 22:31:09 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2021-05-18 22:36:03 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/orange_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/giant_cloud": {
+    "criteria": {
+      "discover": "2021-05-18 22:50:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-05-18 22:26:21 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshaft/mineshaft_taiga": {
+    "criteria": {
+      "in_mineshaft_taiga": "2021-05-18 22:45:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/anvil": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cap_a": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cap_c": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cap_b": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/machine_casing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cap_d": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/black_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-05-18 22:28:34 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_pillar_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/purple_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_item": "2021-05-18 22:55:48 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortresses": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-05-18 22:07:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-05-18 23:03:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-05-18 22:08:52 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/enchsqueezer": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2021-05-18 23:00:27 -0400",
+      "minecraft:zombie": "2021-05-18 22:35:30 -0400"
+    },
+    "done": false
+  },
+  "repurposed_structures:ruined_portals": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/stone_torch": {
+    "criteria": {
+      "has_item": "2021-05-18 22:11:27 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/small_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-05-18 23:03:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-05-18 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:cities": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cell_4": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/xp_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2021-05-18 22:10:48 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/xp_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cell_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/xp_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cell_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cell_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_pillar": {
+    "criteria": {
+      "has_ingredient": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloo/igloo_stone": {
+    "criteria": {
+      "in_igloo_stone": "2021-05-18 22:47:46 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/mass_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/mass_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/mass_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-05-18 22:05:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-05-18 22:14:33 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/rough_rod": {
+    "criteria": {
+      "has_item": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-05-18 22:25:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-05-18 23:03:40 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/bort_block": {
+    "criteria": {
+      "has_item": "2021-05-18 22:17:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/infuser": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-05-18 23:04:45 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/cyan_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-05-18 22:25:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_weathered_limestone": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/ice_tower": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_ctr_base_sec": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/light_gray_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2021-05-18 22:36:03 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/emerald_shard": {
+    "criteria": {
+      "has_item": "2021-05-18 22:52:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-05-18 22:07:44 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woot/fluid_conv_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/tier_shard_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/tier_shard_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/si_ingot": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/squeezer": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/reinforcement": {
+    "criteria": {
+      "has_center": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/looting_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2021-05-18 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-05-18 22:11:27 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/bort_from_block": {
+    "criteria": {
+      "has_item": "2021-05-18 22:17:35 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/iron_rod": {
+    "criteria": {
+      "has_item": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_connect": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/looting_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/looting_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ghost_rail": {
+    "criteria": {
+      "has_item": "2021-05-18 22:08:52 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/export": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_weathered_limestone_bricks_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_bricks_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-05-18 22:07:44 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/tier_shard_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/root": {
+    "criteria": {
+      "inventory_changed": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-05-18 22:10:48 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts/witch_huts_taiga": {
+    "criteria": {
+      "in_witch_hut_taiga": "2021-05-18 22:46:54 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_upgrade": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-05-18 22:25:40 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "2": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/light_blue_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/rate_2": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/rate_3": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:main/root": {
+    "criteria": {
+      "killed_something": "2021-05-18 22:35:30 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/rate_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2021-05-18 22:10:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2021-05-18 22:35:30 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/medium_hollow_hill": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2021-05-18 22:07:53 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2021-05-18 22:52:04 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_a": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2021-05-18 22:35:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_b": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_c": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_d": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-05-18 23:14:14 -0400",
+      "minecraft:snowy_mountains": "2021-05-18 23:11:41 -0400",
+      "minecraft:forest": "2021-05-18 23:07:08 -0400",
+      "minecraft:mountains": "2021-05-18 23:08:24 -0400",
+      "minecraft:taiga": "2021-05-18 22:46:54 -0400",
+      "minecraft:giant_tree_taiga": "2021-05-18 22:47:21 -0400",
+      "minecraft:snowy_tundra": "2021-05-18 23:10:18 -0400",
+      "minecraft:frozen_river": "2021-05-18 23:12:16 -0400",
+      "minecraft:snowy_beach": "2021-05-18 23:10:20 -0400",
+      "minecraft:beach": "2021-05-18 23:12:50 -0400",
+      "minecraft:river": "2021-05-18 22:43:44 -0400",
+      "minecraft:swamp": "2021-05-18 23:00:48 -0400",
+      "minecraft:plains": "2021-05-18 23:08:11 -0400"
+    },
+    "done": false
+  },
+  "woot:recipes/woot/factory_e": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-05-18 22:08:52 -0400"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_carrot": "2021-05-18 22:35:30 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2021-05-18 22:02:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woot/infuser_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2021-05-18 22:14:56 -0400"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2021-05-18 22:09:40 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/weathered_limestone_cobblestone_from_weathered_limestone_stonecutting": {
+    "criteria": {
+      "has_weathered_limestone": "2021-05-18 22:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-05-18 22:35:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2021-05-18 22:14:33 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:village/village_oak": {
+    "criteria": {
+      "in_village_oak": "2021-05-18 22:56:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:village/village_jungle": {
+    "criteria": {
+      "in_village_jungle": "2021-05-18 22:51:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-05-18 22:58:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/green_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woot/squeezer_1": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/factory_ctr_base_pri": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2021-05-18 22:36:03 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2021-05-18 22:38:01 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hydra_lair": {
+    "criteria": {
+      "discover": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-05-18 22:36:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/yellow_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2021-05-18 22:04:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/sturdy_repair_kit": {
+    "criteria": {
+      "has_item": "2021-05-18 22:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_3": {
+    "criteria": {
+      "has_water": "2021-05-18 22:31:09 -0400"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_4": {
+    "criteria": {
+      "has_water": "2021-05-18 22:31:09 -0400"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_5": {
+    "criteria": {
+      "has_water": "2021-05-18 22:31:09 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:strongholds": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-05-18 21:59:18 -0400"
+    },
+    "done": true
+  },
+  "woot:recipes/woot/white_dyecasing": {
+    "criteria": {
+      "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_1": {
+    "criteria": {
+      "has_water": "2021-05-18 22:31:09 -0400"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_2": {
+    "criteria": {
+      "has_water": "2021-05-18 22:31:09 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

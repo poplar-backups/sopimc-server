@@ -1,0 +1,38 @@
+{
+  "muted": false,
+  "fly": false,
+  "god": false,
+  "nick": "",
+  "lastSeen": {
+    "dim": "minecraft:overworld",
+    "x": -920,
+    "y": 77,
+    "z": -5170,
+    "time": 1621463004397
+  },
+  "recording": 0,
+  "teleportHistory": [
+    {
+      "dim": "minecraft:overworld",
+      "x": -25,
+      "y": 12,
+      "z": -377,
+      "time": 1621391314493
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": 16,
+      "y": 22,
+      "z": -340,
+      "time": 1621391869406
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -2,
+      "y": -223,
+      "z": -3,
+      "time": 1621392165691
+    }
+  ],
+  "homes": {}
+}
