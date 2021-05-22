@@ -5,10 +5,10 @@
   "nick": "",
   "lastSeen": {
     "dim": "minecraft:overworld",
-    "x": -1080,
-    "y": 55,
-    "z": -6326,
-    "time": 1621485460252
+    "x": -1146,
+    "y": 60,
+    "z": -6257,
+    "time": 1621666866441
   },
   "recording": 0,
   "teleportHistory": [
@@ -32,6 +32,13 @@
       "y": -223,
       "z": -3,
       "time": 1621392165691
+    },
+    {
+      "dim": "minecraft:the_nether",
+      "x": -21,
+      "y": 24,
+      "z": -994,
+      "time": 1621568042894
     }
   ],
   "homes": {}
