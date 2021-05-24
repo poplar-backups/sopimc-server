@@ -7,8 +7,8 @@
     "dim": "minecraft:overworld",
     "x": -1063,
     "y": 71,
-    "z": -6281,
-    "time": 1621663166991
+    "z": -6280,
+    "time": 1621728815862
   },
   "recording": 0,
   "teleportHistory": [
@@ -46,6 +46,20 @@
       "y": 64,
       "z": -6273,
       "time": 1621566910788
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -523,
+      "y": 91,
+      "z": -6525,
+      "time": 1621727901423
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -1062,
+      "y": 71,
+      "z": -6289,
+      "time": 1621728774862
     }
   ],
   "homes": {}
