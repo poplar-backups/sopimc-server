@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "bambooeverything:recipes/bamboo_fence_gate": {
+    "criteria": {
+      "has_bamboo": "2021-05-28 01:56:42 -0400"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/final_castle": {
     "criteria": {
       "discover": "2021-05-18 21:59:18 -0400"
@@ -656,6 +662,12 @@
   "woot:recipes/woot/fluidconvertor": {
     "criteria": {
       "cobblestone": "2021-05-18 22:04:47 -0400"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_bundle": {
+    "criteria": {
+      "has_bamboo": "2021-05-28 01:56:42 -0400"
     },
     "done": true
   },
@@ -845,6 +857,12 @@
     },
     "done": true
   },
+  "bambooeverything:recipes/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2021-05-28 01:56:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2021-05-21 00:41:37 -0400",
@@ -912,6 +930,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2021-05-20 21:48:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-05-27 02:17:21 -0400"
     },
     "done": true
   },
@@ -1107,6 +1131,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2021-05-27 02:17:21 -0400"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/naga_courtyard": {
     "criteria": {
       "discover": "2021-05-18 21:59:18 -0400"
@@ -1251,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2021-05-27 02:17:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-05-20 23:29:50 -0400"
@@ -1392,6 +1428,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-18 22:33:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2021-05-27 02:17:46 -0400"
     },
     "done": true
   },
@@ -1794,6 +1836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2021-05-27 02:17:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-05-18 22:04:47 -0400"
@@ -1968,6 +2016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2021-05-28 01:56:42 -0400"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2021-05-18 22:36:03 -0400"
@@ -2013,6 +2067,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-05-20 02:00:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-05-27 02:17:21 -0400"
     },
     "done": true
   },
@@ -2424,6 +2484,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2021-05-28 02:12:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2021-05-23 01:37:32 -0400"
@@ -2688,6 +2754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-05-27 02:17:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2021-05-20 00:28:45 -0400"
@@ -2919,6 +2991,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2021-05-20 00:06:38 -0400"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2021-05-28 02:12:42 -0400"
     },
     "done": true
   },
@@ -3204,6 +3282,12 @@
     },
     "done": true
   },
+  "bambooeverything:recipes/bamboo_fence": {
+    "criteria": {
+      "has_bamboo": "2021-05-28 01:56:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2021-05-23 02:16:14 -0400"
@@ -3396,6 +3480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2021-05-28 01:56:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2021-05-20 23:54:48 -0400"
@@ -3453,6 +3543,12 @@
   "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2021-05-20 00:34:54 -0400"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2021-05-28 02:12:42 -0400"
     },
     "done": true
   },
@@ -4133,6 +4229,12 @@
       "has_planks": "2021-05-21 19:51:15 -0400"
     },
     "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2021-05-28 02:00:34 -0400"
+    },
+    "done": false
   },
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {

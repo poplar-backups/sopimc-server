@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-05-28 02:02:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-05-22 17:36:29 -0400"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-05-28 02:03:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2021-05-21 01:07:28 -0400"
@@ -536,6 +548,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-05-23 02:11:30 -0400"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/food/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2021-05-28 01:26:10 -0400"
     },
     "done": true
   },
@@ -557,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2021-05-28 02:01:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-05-19 01:10:28 -0400"
@@ -572,6 +596,12 @@
   "woot:recipes/woot/infuser": {
     "criteria": {
       "cobblestone": "2021-05-19 00:17:35 -0400"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2021-05-28 02:02:10 -0400"
     },
     "done": true
   },
@@ -608,6 +638,12 @@
   "repurposed_structures:villages": {
     "criteria": {
       "always": "2021-05-19 00:09:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-05-28 01:58:16 -0400"
     },
     "done": true
   },
@@ -1067,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-05-28 02:02:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-05-20 00:08:44 -0400"
@@ -1088,6 +1130,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-05-19 00:17:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-05-28 02:03:00 -0400"
     },
     "done": true
   },
@@ -1463,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-05-28 02:02:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-20 00:09:02 -0400"
@@ -1628,6 +1682,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-05-19 23:20:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-05-28 01:58:16 -0400"
     },
     "done": true
   },
@@ -2087,6 +2147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-05-28 01:58:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2021-05-23 02:28:06 -0400"
@@ -2426,6 +2492,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2021-05-19 00:20:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-05-28 02:03:00 -0400"
     },
     "done": true
   },
@@ -3107,6 +3179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-05-28 02:01:14 -0400"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
     "criteria": {
       "has_item": "2021-05-23 02:46:25 -0400"
@@ -3287,6 +3365,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2021-05-28 01:26:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-05-19 00:47:32 -0400"
@@ -3377,6 +3461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2021-05-28 02:01:14 -0400"
+    },
+    "done": true
+  },
   "repurposed_structures:mansions": {
     "criteria": {
       "always": "2021-05-19 00:09:04 -0400"
@@ -3458,6 +3548,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-05-22 18:33:11 -0400"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2021-05-28 01:26:10 -0400"
     },
     "done": true
   },
@@ -3810,6 +3906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-05-28 01:54:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2021-05-22 18:33:11 -0400"
@@ -3921,6 +4023,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-05-19 00:57:37 -0400",
+      "cooked_mutton": "2021-05-28 02:06:09 -0400",
       "sweet_berries": "2021-05-19 23:19:57 -0400",
       "cooked_beef": "2021-05-20 01:48:54 -0400",
       "apple": "2021-05-20 02:37:20 -0400",
@@ -3929,6 +4032,7 @@
       "rotten_flesh": "2021-05-20 00:55:23 -0400",
       "melon_slice": "2021-05-22 17:19:38 -0400",
       "beetroot": "2021-05-21 01:32:50 -0400",
+      "cooked_salmon": "2021-05-28 02:00:28 -0400",
       "carrot": "2021-05-21 01:33:15 -0400"
     },
     "done": false
@@ -4014,6 +4118,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-05-22 18:48:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-05-28 01:54:54 -0400"
     },
     "done": true
   },
@@ -4752,6 +4862,12 @@
   "twilightforest:alt/major_landmarks/quest_grove": {
     "criteria": {
       "discover": "2021-05-19 00:09:04 -0400"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2021-05-28 01:26:10 -0400"
     },
     "done": true
   },

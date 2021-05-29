@@ -2321,6 +2321,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_white": {
+    "criteria": {
+      "has_item": "2021-05-28 02:51:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2021-05-19 22:04:28 -0400"
@@ -4072,6 +4078,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-05-20 23:24:36 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2021-05-28 02:51:11 -0400"
     },
     "done": true
   },

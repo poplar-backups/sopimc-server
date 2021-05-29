@@ -5,20 +5,13 @@
   "nick": "",
   "lastSeen": {
     "dim": "minecraft:overworld",
-    "x": -1063,
-    "y": 71,
-    "z": -6280,
-    "time": 1621728815862
+    "x": -1074,
+    "y": 79,
+    "z": -6323,
+    "time": 1622097690833
   },
   "recording": 0,
   "teleportHistory": [
-    {
-      "dim": "minecraft:overworld",
-      "x": -297,
-      "y": 78,
-      "z": 456,
-      "time": 1621393919367
-    },
     {
       "dim": "minecraft:overworld",
       "x": -1091,
@@ -60,6 +53,34 @@
       "y": 71,
       "z": -6289,
       "time": 1621728774862
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -1065,
+      "y": 69,
+      "z": -6275,
+      "time": 1622095709908
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -1063,
+      "y": 71,
+      "z": -6288,
+      "time": 1622096031879
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -1063,
+      "y": 75,
+      "z": -6278,
+      "time": 1622096663640
+    },
+    {
+      "dim": "minecraft:overworld",
+      "x": -1077,
+      "y": 3,
+      "z": -6291,
+      "time": 1622097394330
     }
   ],
   "homes": {}
